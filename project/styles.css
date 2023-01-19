@@ -1,0 +1,105 @@
+body {
+    font-family: sans-serif;
+    background-color: #eff4fd;
+    color: #333;
+}
+
+nav {
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 100px;
+    cursor: pointer;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: red;
+}
+
+.project {
+    width: 90%;
+    margin: 50px 5%;
+    text-align: center;
+}
+
+.project img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.project h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.project p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.project h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.project ul {
+    margin-bottom: 20px;
+}
+
+.project li {
+    font-size: 16px;
+}
+
+.project button {
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    border-radius: 500px;
+    transition-property: background-color,border-color,color,box-shadow,filter;
+    transition-duration: .3s;
+    border: 1px solid transparent;
+    letter-spacing: 2px;
+    min-width: 160px;
+    text-transform: uppercase;
+    white-space: normal;
+    font-weight: 700;
+    text-align: center;
+    padding: 16px 14px 18px;
+    color: #333;
+    box-shadow: inset 0 0 0 2px #faa61a;
+    background-color: transparent;
+    height: 48px;
+}
+
+.project button:hover {
+    background-color: #faa61a;
+    color: #333;
+    border-color: #faa61a;
+}
+
+.project a {
+    text-decoration: none;
+    color: #333;
+}
