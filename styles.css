@@ -114,3 +114,12 @@ cursor: pointer;
     color: #333;
     background-color: transparent;
 }
+
+@media only screen and (max-width: 600px) { .projects { 
+flex-direction: column; 
+} 
+
+.project {
+width: 100%; 
+margin-bottom: 30px; 
+} }
