@@ -138,3 +138,31 @@ button:hover{
     background-color: #616467;
     
 }
+
+@media only screen and (max-width: 720px) { .detel { 
+margin-left: 0; 
+text-align: center;
+} 
+
+.images {
+width: 100%; 
+height: 50%;
+position: relative; 
+bottom: 0; 
+right: 0; 
+} 
+
+nav { 
+display: block; 
+width: 100%; 
+text-align: center; 
+} 
+
+nav ul { 
+display: none; 
+} 
+
+.logo { 
+display: block; 
+margin: 0 auto; 
+}}
