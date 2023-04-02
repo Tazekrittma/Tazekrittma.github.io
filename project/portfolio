@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Project</title>
+    <link rel="stylesheet" href="csharp.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/index.html">
+            <img src="../images/logo.png" class="logo"></a>
+            <ul>
+                <li><a href="/index.html">HOME</a></li>
+                <li><a href="/about.html">ABOUT</a></li>
+                <li><a href="/projects.html">PROJECTS</a></li>
+                <li><a href="https://github.com/Tazekrittma/" target="_blank">GITHUB</a></li>
+                <li><a href="https://linkedin.com/in/massinissa-tazekritt" target="_blank">LINKEDIN</a></li>
+            </ul>
+        </nav>
+        <div class="project">
+            <h1>Portfolio Website Project</h1>
+            <p>Building My Portfolio with HTML and CSS</p>
+            <img src="../images/portfolio.PNG" alt="code image">
+            <h2>Description:</h2>
+              <p>This is a personal portfolio website built using HTML and CSS. The website showcases my skills, experiences, and projects to potential employers or clients. The website is designed to be visually appealing, easy to navigate, and informative.</p
+              <p>The website is built using HTML to structure the content and CSS to style the layout and design. The HTML markup is semantic and follows best practices for accessibility and SEO. The CSS code is organized and optimized for performance.</p>
+              <p>The portfolio website consists of several sections, including an introduction, about me section, skills section, projects section. The design is clean and minimalist, with a focus on showcasing my work and abilities.</p>
+              <p>The website is responsive and works on a variety of devices, from desktops to mobile phones. The navigation menu is easy to use and adapts to different screen sizes.</p>
+            <h2>What I learned:</h2>
+            <ul>
+                <li>HTML markup and semantics.</li>
+                <li>CSS layout and styling.</li>
+                <li>Responsive design principles.</li>
+                <li>Best practices for web accessibility and SEO.</li>
+                <li>How to showcase my skills and work effectively on a website.</li>
+            </ul>
+            
+        </div>
+    </div>
+</body>
+</html>
