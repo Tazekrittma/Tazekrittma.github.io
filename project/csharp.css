@@ -125,5 +125,6 @@ nav ul li a:hover {
 
 .project a {
     text-decoration: none;
+    background-color: transparent;
     color: #333;
 }
