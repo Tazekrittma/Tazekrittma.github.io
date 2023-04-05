@@ -113,12 +113,14 @@ nav ul li a:hover {
     box-shadow: inset 0 0 0 2px #faa61a;
     background-color: transparent;
     height: 48px;
+    text-decoration: none;
 }
 
 .project button:hover {
     background-color: #faa61a;
     color: #333;
-    /*border-color: #faa61a;*/
+    text-decoration: none;
+    border-color: #faa61a;
 }
 
 .project a {
