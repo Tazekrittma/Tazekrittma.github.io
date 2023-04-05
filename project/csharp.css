@@ -118,7 +118,7 @@ nav ul li a:hover {
 .project button:hover {
     background-color: #faa61a;
     color: #333;
-    border-color: #faa61a;
+    //border-color: #faa61a;
 }
 
 .project a {
