@@ -61,12 +61,12 @@ nav ul li a:hover {
     background-color: #faa61a;
     color: #333;
 }
-
+/*
 .my-button a {
     text-decoration: none;
     color: #333;
     background-color: transparent;
-}
+}*/
 .portfolio {
     margin: 50px 8%;
 }
