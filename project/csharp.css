@@ -26,7 +26,7 @@ nav {
     justify-content: space-between;
 }
 
-nav .logo {
+.logo {
     width: 100px;
     cursor: pointer;
 }
