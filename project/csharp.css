@@ -1,8 +1,15 @@
-body {
+* { 
+    margin: 0; 
+    padding: 0; 
+    font-family: sans-serif;
+    background-color: #eff4fd;
+}
+
+/*body {
     font-family: Arial, sans-serif;
     margin: 0;
     background-color: #eff4fd;
-}
+}*/
 
 /*.container {
     max-width: 1000px;
