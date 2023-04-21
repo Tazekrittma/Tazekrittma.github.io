@@ -34,7 +34,7 @@ nav ul li a:hover {
     color: red;
 }
 
-.my-button {
+button {
     display: inline-block;
     outline: none;
     cursor: pointer;
@@ -57,12 +57,12 @@ nav ul li a:hover {
     height: 48px;
 }
 
-.my-button :hover {
+button :hover {
     background-color: #faa61a;
     color: #333;
 }
 
-.my-button a {
+button a {
     text-decoration: none;
     color: #333;
    background-color: transparent;
