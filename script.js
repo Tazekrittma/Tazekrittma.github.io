@@ -9,12 +9,14 @@ const translations = {
         "hero-bio": "I build intelligent systems. From programming IoT microcontrollers to designing cloud-based Deep Learning predictive models. Currently pursuing a Ph.D. in Generative AI for embedded physical systems.",
         "cta-email": "Let's Talk",
         "section-experience": "Experience & Projects",
-        "exp-1-title": "Ph.D. Researcher & Software Engineer",
-        "exp-1-date": "Sept 2025 - Present",
-        "exp-1-desc": "Leading the PolluGuard smart-city ecosystem. Researching adaptive control policies using generative AI for constrained physical systems (Embedded Reinforcement Learning).",
+        
+        "exp-1-title": "Ph.D. Researcher & Software Engineer (CDI)",
+        "exp-1-date": "Oct 2025 - Present",
+        "exp-1-desc": "Leading the PolluGuard smart-city ecosystem. Researching adaptive control policies using generative AI for constrained physical systems. Successfully deployed and managed the native mobile applications on the Apple App Store and Google Play Store.",
+        
         "exp-2-title": "Software Developer & AI Apprentice",
         "exp-2-date": "Sept 2023 - Sept 2025",
-        "exp-2-desc": "Developed cross-platform apps (Delphi) for real-time sensor data. Deployed CNN-LSTM models for air quality prediction. Managed App Store & Play Store deployments."
+        "exp-2-desc": "Developed cross-platform apps (Delphi) for real-time sensor data. Designed, trained, and deployed CNN-LSTM models for air quality prediction and integrated robust cloud APIs."
     },
     fr: {
         "hero-greeting": "Bonjour, je m'appelle",
@@ -22,14 +24,17 @@ const translations = {
         "hero-bio": "Je conçois des systèmes intelligents. De la programmation de microcontrôleurs IoT au déploiement de modèles prédictifs Deep Learning dans le Cloud. Actuellement en Doctorat sur l'IA générative pour les systèmes physiques embarqués.",
         "cta-email": "Me Contacter",
         "section-experience": "Expériences & Projets",
-        "exp-1-title": "Doctorant Chercheur & Ingénieur Logiciel",
-        "exp-1-date": "Sept 2025 - Présent",
-        "exp-1-desc": "Direction technique de l'écosystème Smart-City PolluGuard. Recherche sur les politiques de contrôle adaptatif via l'IA générative pour les systèmes physiques contraints (Apprentissage par Renforcement).",
+        
+        "exp-1-title": "Doctorant Chercheur & Ingénieur Logiciel (CDI)",
+        "exp-1-date": "Oct 2025 - Présent",
+        "exp-1-desc": "Direction technique de l'écosystème Smart-City PolluGuard. Recherche sur l'IA générative pour le contrôle de systèmes physiques. Déploiement et gestion de l'application mobile en production sur l'App Store (Apple) et le Google Play Store.",
+        
         "exp-2-title": "Développeur Logiciel & Apprenti IA",
         "exp-2-date": "Sept 2023 - Sept 2025",
-        "exp-2-desc": "Développement d'applications multiplateformes (Delphi) pour les capteurs temps réel. Déploiement de modèles CNN-LSTM. Gestion des publications App Store et Google Play."
+        "exp-2-desc": "Développement d'applications multiplateformes (Delphi) pour les capteurs temps réel. Entraînement et déploiement de modèles CNN-LSTM pour la prédiction de la qualité de l'air."
     }
 };
+
 
 let currentLang = 'en';
 
